@@ -115,7 +115,7 @@ flex-direction: row;
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 10px ;
-    box-shadow: 10px 10px 30px gray  ;
+
     
 }
 #prothom{
@@ -129,15 +129,17 @@ flex-direction: row;
     ;
 }
 .mail{
-    background-color: #cf6807;
-    width: 80%;
+
+    background-color: #e7a76a;
+    width: 50%;
     height: 20%;
     margin-left: 10%;
     margin-right: 5%;
     padding-left: 10px ;
-    box-shadow: 10px 10px 30px gray  ;
+
 }
 footer{
+
     left: 0;
     bottom: 0;
     width: 100%;
